@@ -20,5 +20,5 @@ def generate_random_list(n):
     return result
 
 
-print(generate_random_list(80))
+print(generate_random_list(300))
 
